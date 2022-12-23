@@ -6,4 +6,4 @@
 2. Features Engineering
 3. Computer Vision
 
-### for Google Developer Student Clubs 2022
+### for Google Developer Student Clubs Institut Teknologi Telkom Surabaya 2022
